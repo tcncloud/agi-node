@@ -1,0 +1,30 @@
+{
+  "name": "agi-node",
+  "version": "0.0.3",
+  "description": "Asterisk AGI Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexandru Pirvulescu <alex@tcnbroadcasting.com>",
+  "dependencies": {
+    "asterisk-manager": "^0.1.15",
+    "fibers": "^1.0.5",
+    "sprintf-js": "^1.0.2",
+    "sync": "^0.2.5"
+  },
+  "directories": {
+    "example": "examples"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://git.tcncloud.net/bb/agi-node.git"
+  },
+  "keywords": [
+    "agi",
+    "node",
+    "asterisk"
+  ],
+  "license": "MIT"
+}
