@@ -1,6 +1,6 @@
 {
   "name": "agi-node",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Asterisk AGI Server",
   "main": "index.js",
   "scripts": {
@@ -19,7 +19,7 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://git.tcncloud.net/bb/agi-node.git"
+    "url": "https://github.com/tcncloud/agi-node.git"
   },
   "keywords": [
     "agi",
