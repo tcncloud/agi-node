@@ -54,7 +54,7 @@ var server = new AGIServer(testScript, 4573);
 
 #### 2.1 Channel.request
 
-This property is an object that maps all the AGI initialization variable without the *agi_* prefix (e.g. `agi_calleridname` becomes `channel.data.calleridname`). Here's a list of all of these variables:
+This property is an object that maps all the AGI initialization variable without the *agi_* prefix (e.g. `agi_calleridname` becomes `channel.request.calleridname`). Here's a list of all of these variables:
 
 
 * `agi_request` - The filename of your script
