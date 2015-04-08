@@ -1,6 +1,6 @@
 {
   "name": "agi-node",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Asterisk AGI Server",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "asterisk-manager": "^0.1.15",
     "fibers": "^1.0.5",
     "sprintf-js": "^1.0.2",
-    "sync": "^0.2.5"
+    "syncho": "^0.2.3"
   },
   "directories": {
     "example": "examples"
