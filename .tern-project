@@ -1,9 +1,14 @@
 {
-    "libs": [
-    ],
-
-    "plugins": {
-        "node": {}
-    },
-    "ecmaVersion": 6
+  "libs": [
+    "node",
+    "ecma5",
+    "ecma6"
+  ],
+  "plugins": {
+    "complete_strings": {},
+    "node": {},
+    "doc_comment": {
+      "fullDocs": true
+    }
+  }
 }
