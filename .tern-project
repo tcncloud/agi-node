@@ -1,6 +1,5 @@
 {
   "libs": [
-    "node",
     "ecma5",
     "ecma6"
   ],
