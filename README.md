@@ -140,6 +140,11 @@ Plays the specified `file`. Playback can be stopped using one of the (optional) 
 
 Hangs up the current channel.
 
+#### 2.3 Channel events
+
+* 'hangup'
+
+Emitted when the current channel is hung up.
 
 ## LICENSE
 
